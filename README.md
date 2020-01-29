@@ -1,2 +1,4 @@
 # GoBarber
-API sendo desenvolvida com NodeJS para projeto pessoal de estudo.
+Aplicação sendo desenvolvida para estudo pessoal, utilizando NodeJS, Docker e Postgres.
+
+
