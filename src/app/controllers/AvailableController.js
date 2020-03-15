@@ -1,3 +1,4 @@
+import { Op } from 'sequelize';
 import {
   startOfDay,
   endOfDay,
@@ -8,7 +9,6 @@ import {
   isAfter,
 } from 'date-fns';
 import Appointments from '../models/Appointment';
-import { Op } from 'sequelize';
 
 class AvailableController {
   async index(req, res) {
